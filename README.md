@@ -1,2 +1,3 @@
 # beam_scenarios
-Contains configs and sbatch scripts to run BEAM on the BYU supercomputer
+Contains configs and misc files (networks, rh fleets, etc.) for running BEAM.
+Also sbatch scripts to run BEAM on the BYU supercomputer.
