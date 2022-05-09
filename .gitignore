@@ -1,2 +1,5 @@
 /data/**
 /output/**
+
+/scenarios/**/*.mapdb
+/scenarios/**/*.mapdb.p
