@@ -3,3 +3,5 @@
 
 /scenarios/**/*.mapdb
 /scenarios/**/*.mapdb.p
+/scenarios/**/network.dat
+/scenarios/**/*.dat.lock
