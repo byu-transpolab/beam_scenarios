@@ -6,3 +6,5 @@
 /scenarios/**/r5/**/*.dat
 /scenarios/**/r5/**/*.dat.lock
 /scenarios/**/r5/**/physsim-network.xml
+
+*.jar
