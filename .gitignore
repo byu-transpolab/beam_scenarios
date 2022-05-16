@@ -7,4 +7,7 @@
 /scenarios/**/r5/**/*.dat.lock
 /scenarios/**/r5/**/physsim-network.xml
 
+/slurm*.out
+/old_slurm_files/**
+
 *.jar
