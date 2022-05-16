@@ -1,9 +1,9 @@
 #!/bin/bash
 
-#SBATCH --time=20:00:00   # walltime
-#SBATCH --ntasks=16
+#SBATCH --time=70:00:00   # walltime
+#SBATCH --ntasks=6
 #SBATCH --nodes=1   # number of nodes
-#SBATCH --mem-per-cpu=30G   # memory per CPU core
+#SBATCH --mem-per-cpu=80G   # memory per CPU core
 #SBATCH -J "beam"   # job name
 #SBATCH --mail-user=shaydenatch@gmail.com   # email address
 ##SBATCH --mail-type=BEGIN
