@@ -13,3 +13,4 @@ log-path**
 /old_slurm_files/**
 
 *.jar
+*.DS_store
