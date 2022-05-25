@@ -12,8 +12,9 @@ else
 fi
 
 # Gets wfrc data from box repository
-wget --directory-prefix=data/ --content-disposition https://byu.box.com/shared/static/8652xtqi4i4zxj0xjrw0k40kstog45hw.zip
+wget https://byu.box.com/shared/static/8652xtqi4i4zxj0xjrw0k40kstog45hw.zip
+mv 8652xtqi4i4zxj0xjrw0k40kstog45hw.zip wfrc.zip
 
 # Unzip and put in the right spot
-unzip -d data data/wfrc.zip
-mv data/wfrc.zip data/wfrc/wfrc.zip
+unzip -d data wfrc.zip
+mv wfrc.zip data/wfrc/wfrc.zip
