@@ -46,4 +46,5 @@ BUS-WC,39,34,12.2,diesel,14773.1163,30000000000,,,,,,,,,,,MediumDutyPassenger,,,
 BUS-WH,33,20,10.7,diesel,19582.6,30000000000,,,,,,,,,,,MediumDutyPassenger,,,
 slc_testCar,4,0,4.5,gasoline,3655.98,3655980000,,,,,,1,,,,,Car,,,
 micro,6,0,5.5,gasoline,3655.98,3655980000,,,,,,,,,,,Car,0.5,ridehail|all:0.6; income|0-17:0.0|17-36:0.0 | 61-86:1.0 | 86-133 : 0.0 | 133-999 : 0.0,F
-sharedVehicle-sharedCar,4,0,4.5,gasoline,3655.98,3655980000,,,,,,,,,,,Car,0.5,ridehail|all:0.0; income|0-17:0.5|17-36:0.25 | 61-86:1.0 | 86-133 : 0.0 | 133-999 : 0.0,F
+sharedVehicle-sharedCar,4,0,4.5,gasoline,3655.98,3655980000,,,,,,,,,,,Car,0.5,ridehail|all:0.0; income|0-17:0.5|17-36:0.25 | 61-86:1.0 | 86-133 : 0.0 | 133-999 : 0.0,
+sharedVehicle-FAST-BIKE,2,0,1.5,gasoline,10.6,2210000,,,,,,,20,,,,Bike,0,,
