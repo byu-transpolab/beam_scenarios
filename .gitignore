@@ -14,3 +14,4 @@ log-path**
 
 *.jar
 *.DS_store
+.Rproj.user
