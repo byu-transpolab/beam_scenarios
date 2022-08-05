@@ -15,3 +15,5 @@ log-path**
 *.jar
 *.DS_store
 .Rproj.user
+
+working_15pct_scenario/**
