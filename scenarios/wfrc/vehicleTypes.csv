@@ -2,6 +2,7 @@ vehicleTypeId,seatingCapacity,standingRoomCapacity,lengthInMeter,primaryFuelType
 BODY-TYPE-DEFAULT,0,0,0.5,Food,53,2.21E+06,,,,,,,,,,,Body,,,
 BIKE-DEFAULT,2,0,1.5,gasoline,10.6,2210000,,,,,,,5,,,,Bike,1,,
 FAST-BIKE,2,0,1.5,gasoline,10.6,2210000,,,,,,,20,,,,Bike,0,,
+BIKE,2,0,1.5,gasoline,10.6,2210000,,,,,,,5,,,,Bike,1,,
 Car,4,0,4.5,gasoline,3655.98,3655980000,,,,,,,,,,,Car,0.5,ridehail|all:0.0; income|0-17:0.5|17-36:0.25 | 61-86:1.0 | 86-133 : 0.0 | 133-999 : 0.0,F
 CAR,4,0,4.5,gasoline,3655.98,3655980000,,,,,,,,,,,Car,0.5,ridehail|all:0.0; income|0-17:0.5|17-36:0.25 | 61-86:1.0 | 86-133 : 0.0 | 133-999 : 0.0,F
 Car-rh-only,4,0,4.5,gasoline,3655.98,3655980000,,,,,,,,,,,Car,0.5,ridehail|all:0.6; income|0-17:0.0|17-36:0.0 | 61-86:0.0 | 86-133 : 0.0 | 133-999 : 0.0,F
