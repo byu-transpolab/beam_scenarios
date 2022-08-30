@@ -4,7 +4,7 @@
 #SBATCH --ntasks=6
 #SBATCH --nodes=1   # number of nodes
 #SBATCH --mem-per-cpu=80G   # memory per CPU core
-#SBATCH -J "beam"   # job name
+#SBATCH -J "beam_A_20"   # job name
 #SBATCH --mail-user=shaydenatch@gmail.com   # email address
 ##SBATCH --mail-type=BEGIN
 #SBATCH --mail-type=END
@@ -19,4 +19,4 @@ module load jdk/1.8
 echo "Loaded Modules"
 module list
 
-java -Xmx450G -jar beam.jar --config scenarios/wfrc/configs/20_pct.conf
+java -Xmx450G -jar beam.jar --config scenarios/wfrc/configs/A_20.conf
